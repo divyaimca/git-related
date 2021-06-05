@@ -14,3 +14,4 @@
 13- git push origin branchname = (will push the branch to the git lab repo)
 14- git push origin --delete branch name = (this will delte the branch from gitlab)
 15- git merge pk_trainging production = (it will merge the changes from pk_training branch to production branch)
+16- git pull
