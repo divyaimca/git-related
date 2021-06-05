@@ -1,0 +1,16 @@
+1-  git init = initialize local git repo
+2-  git clone =cloning the repo to local copy
+3-  git status = checks the git status after pull
+4-  git add ( filename) = files which me made changes and it will add the file but not push
+5-  git add -A = will incluse all the files instead of one file
+6-  git commit -m "creating a new file pk_test.rb"
+7-  git push (filename) = pushes the file to the repository
+    e.g ( git push -u origin branchname)
+8-  git rm -r filename (files gets deleted locally)
+9-  git branch -d branchname = (delets the branch)
+10- git branch -a = (its gives he list of all local as well as remote branches)
+11- git branch (branchname) = will create a branch
+12- git checkout -b branchname = (will create the branch and will switch to the branch)
+13- git push origin branchname = (will push the branch to the git lab repo)
+14- git push origin --delete branch name = (this will delte the branch from gitlab)
+15- git merge pk_trainging production = (it will merge the changes from pk_training branch to production branch)
